@@ -3,23 +3,23 @@
 /* Global Styles */
 @font-face {
   font-family: FontAwesome;
-  src: url(/dazour-agency/wp-content/themes/dx-agency/build/fonts/fontawesome-solid.ttf);
+  src: url(/wp-content/themes/dx-agency/build/fonts/fontawesome-solid.ttf);
 }
 @font-face {
   font-family: Montserrat;
-  src: url(/dazour-agency/wp-content/themes/dx-agency/build/fonts/montserrat/Montserrat-Regular.otf);
+  src: url(/wp-content/themes/dx-agency/build/fonts/montserrat/Montserrat-Regular.otf);
 }
 @font-face {
   font-family: Montserrat-Thin;
-  src: url(/dazour-agency/wp-content/themes/dx-agency/build/fonts/montserrat/Montserrat-Thin.otf);
+  src: url(/wp-content/themes/dx-agency/build/fonts/montserrat/Montserrat-Thin.otf);
 }
 @font-face {
   font-family: GT-Flexa;
-  src: url(/dazour-agency/wp-content/themes/dx-agency/build/fonts/GT-Flexa-Standard-Regular.ttf);
+  src: url(/wp-content/themes/dx-agency/build/fonts/GT-Flexa-Standard-Regular.ttf);
 }
 @font-face {
   font-family: Roboto;
-  src: url(/dazour-agency/wp-content/themes/dx-agency/build/fonts/RobotoMono-Regular.ttf);
+  src: url(/wp-content/themes/dx-agency/build/fonts/RobotoMono-Regular.ttf);
 }
 * {
   font-family: "Roboto";
@@ -430,7 +430,7 @@ body {
   position: relative;
   width: 100vw;
   height: 100vh;
-  background: url("/dazour-agency/wp-content/uploads/2024/06/homepage1.jpg.png");
+  background: url("/wp-content/uploads/2024/06/homepage1.jpg.png");
   background-size: cover;
   overflow: hidden;
   display: flex;
